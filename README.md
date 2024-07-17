@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Streamlit Hugchat Bot Demo
 
-Description of the app ...
+Demoing hugchat api used with streamlit
 
 ## Demo App
 
